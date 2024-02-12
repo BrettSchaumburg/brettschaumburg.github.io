@@ -1,2 +1,2 @@
 # My Portfolio
-<a href="http://brett.schaumburg.github.io/pacman.git">PacMan Exercise</a>
+<a href="http://brettschaumburg.github.io/pacman.git">PacMan Exercise</a>
