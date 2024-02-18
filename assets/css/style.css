@@ -662,7 +662,7 @@ section {
   top: 30px;
   bottom: 30px;
   transition: all ease-in-out 0.3s;
-  z-index: 2;
+  z-index: 0;
   opacity: 0;
 }
 
@@ -727,17 +727,24 @@ section {
 .portfolio .portfolio-wrap .portfolio-links {
   text-align: center;
   z-index: 4;
+  font-size: 14px;
+  text-transform: uppercase;
+  color: #067ded;
 }
 
 .portfolio .portfolio-wrap .portfolio-links a {
   color: #45505b;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif; /*"Poppins", sans-serif;*/
   margin: 0 2px;
-  font-size: 28px;
+  font-size: 30px;
   display: inline-block;
   transition: 0.3s;
 }
 
 .portfolio .portfolio-wrap .portfolio-links a:hover {
+  font-size: 32px;
   color: #148af9;
 }
 
